@@ -31,7 +31,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Tuvya7/wealthpilot.git
+git clone https://github.com/tuvya-algotar/wealth-pilot.git
 cd wealthpilot
 ```
 
